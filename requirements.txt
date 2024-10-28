@@ -1,0 +1,6 @@
+# Arquivo de requirements para o script
+open3d==0.13.0
+trimesh==3.9.29
+scipy==1.10.1
+numpy==1.23.5
+networkx==2.6.3
